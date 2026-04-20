@@ -1,1 +1,45 @@
-/.idea
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter and notebook artifacts
+.ipynb_checkpoints/
+
+# Test and coverage outputs
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Type checker / linter caches
+.mypy_cache/
+.ruff_cache/
+.pyre/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Local environment/secrets
+.env
+.env.*
+
+# Temporary files
+*.tmp
+*.swp
