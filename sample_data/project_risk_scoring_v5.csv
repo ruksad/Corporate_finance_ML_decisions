@@ -1,0 +1,51 @@
+Project_ID,Department,Project_Risk,Success_Prob,IRR_Pct,NPV,IRR_Tier,Composite_Score,Success
+49,IT,High,62.6%,1144.8%,"$4,281,887",Excellent (≥30%),81.3,1
+35,IT,Medium,65.4%,615.7%,"$3,690,876",Excellent (≥30%),80.0,1
+43,IT,Medium,60.8%,196.4%,"$3,653,868",Excellent (≥30%),77.4,1
+37,Marketing,Medium,59.7%,115.7%,"$3,079,459",Excellent (≥30%),74.2,0
+46,Marketing,Low,52.7%,124.5%,"$2,887,763",Excellent (≥30%),69.8,0
+25,Marketing,Medium,62.8%,56.4%,"$1,670,666",Excellent (≥30%),69.2,0
+45,Marketing,Low,50.2%,106.5%,"$2,806,794",Excellent (≥30%),68.2,1
+33,Marketing,Medium,56.6%,50.6%,"$2,075,820",Excellent (≥30%),68.0,0
+7,Finance,Medium,55.7%,133.6%,"$2,054,605",Excellent (≥30%),67.4,0
+3,Finance,High,55.4%,49.1%,"$2,121,152",Excellent (≥30%),67.1,1
+39,Finance,Low,52.3%,78.4%,"$2,131,233",Excellent (≥30%),66.1,1
+16,Finance,Low,38.9%,406.0%,"$3,290,090",Excellent (≥30%),64.8,0
+1,Operations,Low,34.9%,470.4%,"$3,706,072",Excellent (≥30%),64.7,0
+41,Operations,Medium,48.6%,55.9%,"$1,937,934",Excellent (≥30%),63.4,1
+15,Marketing,High,54.6%,41.7%,"$1,075,732",Excellent (≥30%),57.3,1
+31,Finance,Medium,33.2%,123.9%,"$2,098,879",Excellent (≥30%),56.4,0
+18,Marketing,Low,53.3%,36.2%,"$1,574,202",Excellent (≥30%),55.7,1
+9,Operations,Medium,51.7%,36.1%,"$1,360,695",Excellent (≥30%),53.9,1
+36,Finance,Medium,58.3%,31.5%,"$1,079,105",Excellent (≥30%),53.1,1
+13,Operations,Low,52.6%,32.2%,"$1,569,700",Excellent (≥30%),52.9,1
+40,Operations,Medium,54.4%,26.4%,"$985,981",Good (20-30%),47.7,1
+10,IT,High,47.7%,31.3%,"$1,077,058",Excellent (≥30%),47.7,1
+42,Operations,High,52.8%,23.4%,"$853,386",Good (20-30%),44.4,1
+28,IT,Medium,60.2%,20.0%,"$338,974",Acceptable (10-20%),43.7,1
+20,Operations,Medium,44.7%,23.6%,"$979,412",Good (20-30%),41.1,0
+11,Operations,Medium,61.2%,11.0%,"$53,253",Acceptable (10-20%),37.5,0
+17,Marketing,Low,50.5%,17.2%,"$210,396",Acceptable (10-20%),36.6,0
+30,Marketing,Low,51.1%,14.1%,"$300,317",Acceptable (10-20%),35.4,0
+27,IT,High,49.3%,12.1%,"$128,161",Acceptable (10-20%),32.5,0
+2,Marketing,Low,54.2%,7.0%,"$-81,821",Below Hurdle (<10%),31.3,1
+48,Operations,Low,59.2%,1.7%,"$-516,582",Below Hurdle (<10%),30.6,0
+4,Operations,Medium,59.3%,-2.0%,"$-688,353",Below Hurdle (<10%),29.6,1
+8,Finance,High,52.9%,4.6%,"$-327,587",Below Hurdle (<10%),29.2,1
+38,Finance,Medium,56.3%,-8.5%,"$-1,241,652",Below Hurdle (<10%),28.1,0
+32,Finance,High,55.7%,-10.9%,"$-1,366,452",Below Hurdle (<10%),27.8,1
+22,Finance,High,54.6%,-11.6%,"$-1,106,186",Below Hurdle (<10%),27.3,1
+12,Operations,Low,54.2%,-21.7%,"$-1,476,909",Below Hurdle (<10%),27.1,1
+23,IT,High,54.0%,-33.2%,"$-2,817,291",Below Hurdle (<10%),27.0,0
+6,Marketing,Low,47.1%,4.8%,"$-252,243",Below Hurdle (<10%),26.4,0
+5,Operations,High,52.8%,-6.0%,"$-650,973",Below Hurdle (<10%),26.4,0
+26,IT,High,52.8%,-24.1%,"$-2,321,988",Below Hurdle (<10%),26.4,1
+34,IT,Low,51.4%,-2.5%,"$-573,499",Below Hurdle (<10%),25.7,0
+44,Marketing,High,50.9%,-19.9%,"$-969,196",Below Hurdle (<10%),25.5,0
+24,Marketing,Medium,49.2%,0.2%,"$-823,414",Below Hurdle (<10%),24.7,1
+21,IT,High,49.2%,-4.6%,"$-906,166",Below Hurdle (<10%),24.6,1
+29,Marketing,High,45.0%,-13.8%,"$-962,472",Below Hurdle (<10%),22.5,0
+19,Marketing,Medium,34.3%,5.1%,"$-396,826",Below Hurdle (<10%),20.2,0
+50,IT,Medium,20.2%,11.0%,"$59,539",Acceptable (10-20%),16.9,0
+14,Operations,Medium,59.9%,nan%,"$-2,576,401",Unknown,nan,1
+47,Marketing,Low,54.7%,nan%,"$-3,809,639",Unknown,nan,0
