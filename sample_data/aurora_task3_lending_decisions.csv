@@ -1,0 +1,101 @@
+Loan_ID,Customer_Type,Annual_Income,Loan_Amount,Interest_Rate,Debt_to_Income,Credit_History_Length,Past_Default,PD_predicted,Risk_Score,Risk_Category,Has_Fraud,Fraud_Txns,Lending_Decision,Adjusted_Rate,Monitoring_Strategy
+31,Retail,4285780,231897,11.18,0.32,10,0,0.1572,1.8,Low,0,0,APPROVE,11.18%,Annual review. Standard loan covenants. No additional requirements.
+99,Corporate,1909490,313571,11.67,0.42,22,0,0.1572,1.8,Low,0,0,APPROVE,11.67%,Annual review. Standard loan covenants. No additional requirements.
+100,Retail,3917857,694106,11.64,0.21,14,0,0.1572,1.75,Low,0,0,APPROVE,11.64%,Annual review. Standard loan covenants. No additional requirements.
+46,Retail,3255187,541849,9.89,0.35,16,0,0.1572,1.6500000000000001,Low,0,0,APPROVE,9.89%,Annual review. Standard loan covenants. No additional requirements.
+60,Retail,1839891,606562,8.27,0.4,24,0,0.1572,1.6500000000000001,Low,0,0,APPROVE,8.27%,Annual review. Standard loan covenants. No additional requirements.
+71,Retail,4262406,813692,10.49,0.32,21,0,0.1572,1.6500000000000001,Low,0,0,APPROVE,10.49%,Annual review. Standard loan covenants. No additional requirements.
+2,Retail,2740108,825131,12.8,0.15,23,0,0.1572,1.6,Low,0,0,APPROVE,12.80%,Annual review. Standard loan covenants. No additional requirements.
+41,Retail,4093960,638880,11.77,0.16,21,0,0.1572,1.6,Low,0,0,APPROVE,11.77%,Annual review. Standard loan covenants. No additional requirements.
+49,Retail,4128502,659324,12.54,0.23,15,0,0.1572,1.6,Low,0,0,APPROVE,12.54%,Annual review. Standard loan covenants. No additional requirements.
+81,Corporate,2166233,82303,12.46,0.3,13,0,0.1572,1.5999999999999999,Low,0,0,APPROVE,12.46%,Annual review. Standard loan covenants. No additional requirements.
+25,Retail,4000001,176926,4.61,0.66,23,0,0.1572,1.55,Low,0,0,APPROVE,4.61%,Annual review. Standard loan covenants. No additional requirements.
+48,Retail,4690456,616440,4.68,0.65,19,0,0.1572,1.55,Low,0,0,APPROVE,4.68%,Annual review. Standard loan covenants. No additional requirements.
+50,Corporate,3651581,396193,5.42,0.83,23,0,0.1572,1.55,Low,0,0,APPROVE,5.42%,Annual review. Standard loan covenants. No additional requirements.
+51,Retail,4276238,36734,4.96,0.76,23,0,0.1572,1.55,Low,0,0,APPROVE,4.96%,Annual review. Standard loan covenants. No additional requirements.
+23,Retail,2213151,639474,3.62,0.52,24,0,0.1572,1.5000000000000002,Low,0,0,APPROVE,3.62%,Annual review. Standard loan covenants. No additional requirements.
+35,Corporate,2764296,105462,7.94,0.6,17,0,0.1572,1.5,Low,0,0,APPROVE,7.94%,Annual review. Standard loan covenants. No additional requirements.
+36,Retail,3361869,409445,7.19,0.32,20,0,0.1572,1.5,Low,0,0,APPROVE,7.19%,Annual review. Standard loan covenants. No additional requirements.
+4,Corporate,3383597,77661,5.05,0.19,5,0,0.1572,1.45,Low,0,0,APPROVE,5.05%,Annual review. Standard loan covenants. No additional requirements.
+14,Retail,3019475,814462,9.09,0.11,18,0,0.1572,1.45,Low,0,0,APPROVE,9.09%,Annual review. Standard loan covenants. No additional requirements.
+30,Retail,4624877,675627,6.06,0.14,4,0,0.1572,1.45,Low,0,0,APPROVE,6.06%,Annual review. Standard loan covenants. No additional requirements.
+58,Retail,4190435,91264,7.71,0.14,8,0,0.1572,1.45,Low,0,0,APPROVE,7.71%,Annual review. Standard loan covenants. No additional requirements.
+63,Corporate,227775,201076,6.62,0.22,18,0,0.1572,1.45,Low,0,0,APPROVE,6.62%,Annual review. Standard loan covenants. No additional requirements.
+72,Corporate,4298764,122581,4.4,0.15,6,0,0.1572,1.45,Low,0,0,APPROVE,4.40%,Annual review. Standard loan covenants. No additional requirements.
+83,Corporate,547313,197210,6.74,0.2,15,0,0.1572,1.45,Low,0,0,APPROVE,6.74%,Annual review. Standard loan covenants. No additional requirements.
+9,Retail,2952097,276765,6.36,0.4,19,0,0.1572,1.35,Low,0,0,APPROVE,6.36%,Annual review. Standard loan covenants. No additional requirements.
+18,Retail,4741075,572926,6.46,0.52,19,0,0.1572,1.35,Low,0,0,APPROVE,6.46%,Annual review. Standard loan covenants. No additional requirements.
+16,Corporate,3395884,881149,4.38,0.13,18,0,0.1572,1.3,Low,0,0,APPROVE,4.38%,Annual review. Standard loan covenants. No additional requirements.
+20,Corporate,721095,128033,4.85,0.16,20,0,0.1572,1.3,Low,0,0,APPROVE,4.85%,Annual review. Standard loan covenants. No additional requirements.
+3,Corporate,4863177,83686,6.09,0.2,15,0,0.1572,1.1500000000000001,Low,0,0,APPROVE,6.09%,Annual review. Standard loan covenants. No additional requirements.
+86,Corporate,1367682,154990,3.4,0.28,24,0,0.1572,1.1500000000000001,Low,0,0,APPROVE,3.40%,Annual review. Standard loan covenants. No additional requirements.
+5,Retail,95953,578535,11.02,0.62,21,0,0.1572,2.15,Medium,0,0,APPROVE — Standard Monitoring,11.52%,Quarterly review. Covenant compliance checks. Flag DTI or IR breaches.
+29,Retail,4152263,383220,12.72,0.82,5,0,0.1572,2.15,Medium,0,0,APPROVE — Standard Monitoring,13.22%,Quarterly review. Covenant compliance checks. Flag DTI or IR breaches.
+80,Retail,1362397,474374,13.73,0.78,14,0,0.1572,2.15,Medium,0,0,APPROVE — Standard Monitoring,14.23%,Quarterly review. Covenant compliance checks. Flag DTI or IR breaches.
+91,Corporate,4969003,428034,12.86,0.64,1,0,0.1572,2.15,Medium,0,0,APPROVE — Standard Monitoring,13.36%,Quarterly review. Covenant compliance checks. Flag DTI or IR breaches.
+93,Retail,56790,800756,13.16,0.72,17,0,0.1572,2.15,Medium,0,0,APPROVE — Standard Monitoring,13.66%,Quarterly review. Covenant compliance checks. Flag DTI or IR breaches.
+21,Corporate,863727,640265,8.77,0.54,6,0,0.1572,2.1,Medium,0,0,APPROVE — Standard Monitoring,9.27%,Quarterly review. Covenant compliance checks. Flag DTI or IR breaches.
+38,Corporate,4859040,780173,12.97,0.47,5,0,0.1572,2.1,Medium,0,0,APPROVE — Standard Monitoring,13.47%,Quarterly review. Covenant compliance checks. Flag DTI or IR breaches.
+6,Corporate,4019618,255121,14.15,0.7,14,0,0.1572,2.0,Medium,0,0,APPROVE — Standard Monitoring,14.65%,Quarterly review. Covenant compliance checks. Flag DTI or IR breaches.
+53,Corporate,3629865,36069,12.77,0.68,11,0,0.1572,2.0,Medium,0,0,APPROVE — Standard Monitoring,13.27%,Quarterly review. Covenant compliance checks. Flag DTI or IR breaches.
+61,Corporate,3818340,484665,7.52,0.75,3,0,0.1572,2.0,Medium,0,0,APPROVE — Standard Monitoring,8.02%,Quarterly review. Covenant compliance checks. Flag DTI or IR breaches.
+75,Corporate,2306360,724016,7.02,0.9,9,0,0.1572,2.0,Medium,0,0,APPROVE — Standard Monitoring,7.52%,Quarterly review. Covenant compliance checks. Flag DTI or IR breaches.
+78,Corporate,2564629,126421,10.44,0.72,2,0,0.1572,2.0,Medium,0,0,APPROVE — Standard Monitoring,10.94%,Quarterly review. Covenant compliance checks. Flag DTI or IR breaches.
+7,Corporate,2627480,682108,9.68,0.57,2,0,0.1572,1.9500000000000002,Medium,0,0,APPROVE — Standard Monitoring,10.18%,Quarterly review. Covenant compliance checks. Flag DTI or IR breaches.
+45,Retail,2305504,642387,11.89,0.53,11,0,0.1572,1.9500000000000002,Medium,0,0,APPROVE — Standard Monitoring,12.39%,Quarterly review. Covenant compliance checks. Flag DTI or IR breaches.
+69,Retail,563636,609991,9.52,0.47,10,0,0.1572,1.9500000000000002,Medium,0,0,APPROVE — Standard Monitoring,10.02%,Quarterly review. Covenant compliance checks. Flag DTI or IR breaches.
+77,Corporate,4456219,954789,12.53,0.54,14,0,0.1572,1.9500000000000002,Medium,0,0,APPROVE — Standard Monitoring,13.03%,Quarterly review. Covenant compliance checks. Flag DTI or IR breaches.
+94,Corporate,1721738,872755,4.53,0.52,3,0,0.1572,1.9500000000000002,Medium,0,0,APPROVE — Standard Monitoring,5.03%,Quarterly review. Covenant compliance checks. Flag DTI or IR breaches.
+96,Retail,478345,965614,12.57,0.54,15,0,0.1572,1.95,Medium,0,0,APPROVE — Standard Monitoring,13.07%,Quarterly review. Covenant compliance checks. Flag DTI or IR breaches.
+8,Corporate,4227571,377257,9.86,0.87,11,0,0.1572,1.85,Medium,0,0,APPROVE — Standard Monitoring,10.36%,Quarterly review. Covenant compliance checks. Flag DTI or IR breaches.
+44,Retail,1642818,409384,3.8,0.66,11,0,0.1572,1.85,Medium,0,0,APPROVE — Standard Monitoring,4.30%,Quarterly review. Covenant compliance checks. Flag DTI or IR breaches.
+52,Retail,455523,933875,4.97,0.86,16,0,0.1572,1.85,Medium,0,0,APPROVE — Standard Monitoring,5.47%,Quarterly review. Covenant compliance checks. Flag DTI or IR breaches.
+68,Retail,3039758,922826,7.61,0.77,18,0,0.1572,1.85,Medium,0,0,APPROVE — Standard Monitoring,8.11%,Quarterly review. Covenant compliance checks. Flag DTI or IR breaches.
+76,Corporate,4438249,912580,4.67,0.9,12,0,0.1572,1.85,Medium,0,0,APPROVE — Standard Monitoring,5.17%,Quarterly review. Covenant compliance checks. Flag DTI or IR breaches.
+87,Retail,1316643,168518,9.84,0.64,11,0,0.1572,1.85,Medium,0,0,APPROVE — Standard Monitoring,10.34%,Quarterly review. Covenant compliance checks. Flag DTI or IR breaches.
+32,Corporate,1385531,11062,12.12,0.86,24,0,0.1572,1.8499999999999999,Medium,0,0,APPROVE — Standard Monitoring,12.62%,Quarterly review. Covenant compliance checks. Flag DTI or IR breaches.
+34,Retail,3771196,584736,8.66,0.46,10,0,0.1572,1.8000000000000003,Medium,0,0,APPROVE — Standard Monitoring,9.16%,Quarterly review. Covenant compliance checks. Flag DTI or IR breaches.
+40,Retail,1256607,276776,4.49,0.57,6,0,0.1572,1.8000000000000003,Medium,0,0,APPROVE — Standard Monitoring,4.99%,Quarterly review. Covenant compliance checks. Flag DTI or IR breaches.
+26,Corporate,100640,580559,3.76,0.46,10,0,0.1572,1.8,Medium,0,0,APPROVE — Standard Monitoring,4.26%,Quarterly review. Covenant compliance checks. Flag DTI or IR breaches.
+27,Retail,4420886,870120,14.88,0.6,19,0,0.1572,1.8,Medium,0,0,APPROVE — Standard Monitoring,15.38%,Quarterly review. Covenant compliance checks. Flag DTI or IR breaches.
+55,Corporate,1069458,547198,9.28,0.43,16,0,0.1572,1.8,Medium,0,0,APPROVE — Standard Monitoring,9.78%,Quarterly review. Covenant compliance checks. Flag DTI or IR breaches.
+65,Retail,817494,719913,9.03,0.4,19,0,0.1572,1.8,Medium,0,0,APPROVE — Standard Monitoring,9.53%,Quarterly review. Covenant compliance checks. Flag DTI or IR breaches.
+70,Retail,3068370,872522,13.88,0.43,22,0,0.1572,1.8,Medium,0,0,APPROVE — Standard Monitoring,14.38%,Quarterly review. Covenant compliance checks. Flag DTI or IR breaches.
+85,Retail,3492565,872557,11.93,0.58,15,0,0.1572,1.8,Medium,0,0,APPROVE — Standard Monitoring,12.43%,Quarterly review. Covenant compliance checks. Flag DTI or IR breaches.
+12,Corporate,2258636,932630,6.88,0.28,2,0,0.1572,1.75,Medium,0,0,APPROVE — Standard Monitoring,7.38%,Quarterly review. Covenant compliance checks. Flag DTI or IR breaches.
+37,Retail,928320,460009,14.15,0.25,24,0,0.1572,1.75,Medium,0,0,APPROVE — Standard Monitoring,14.65%,Quarterly review. Covenant compliance checks. Flag DTI or IR breaches.
+84,Retail,3695060,796237,5.98,0.86,22,0,0.1572,1.7000000000000002,Medium,0,0,APPROVE — Standard Monitoring,6.48%,Quarterly review. Covenant compliance checks. Flag DTI or IR breaches.
+17,Retail,3399720,458874,10.33,0.81,15,0,0.1572,1.7,Medium,0,0,APPROVE — Standard Monitoring,10.83%,Quarterly review. Covenant compliance checks. Flag DTI or IR breaches.
+43,Corporate,4290538,381923,5.17,0.89,13,0,0.1572,1.7,Medium,0,0,APPROVE — Standard Monitoring,5.67%,Quarterly review. Covenant compliance checks. Flag DTI or IR breaches.
+24,Retail,3193683,831106,7.04,0.6,15,0,0.1572,1.6500000000000001,Medium,0,0,APPROVE — Standard Monitoring,7.54%,Quarterly review. Covenant compliance checks. Flag DTI or IR breaches.
+54,Retail,4229790,745265,10.98,0.59,22,0,0.1572,1.6500000000000001,Medium,0,0,APPROVE — Standard Monitoring,11.48%,Quarterly review. Covenant compliance checks. Flag DTI or IR breaches.
+82,Corporate,748216,168211,4.82,0.46,9,0,0.1572,1.6500000000000001,Medium,0,0,APPROVE — Standard Monitoring,5.32%,Quarterly review. Covenant compliance checks. Flag DTI or IR breaches.
+92,Retail,4472987,766254,4.33,0.52,8,0,0.1572,1.6500000000000001,Medium,0,0,APPROVE — Standard Monitoring,4.83%,Quarterly review. Covenant compliance checks. Flag DTI or IR breaches.
+97,Corporate,779074,550677,4.8,0.55,15,0,0.1572,1.6500000000000001,Medium,0,0,APPROVE — Standard Monitoring,5.30%,Quarterly review. Covenant compliance checks. Flag DTI or IR breaches.
+1,Corporate,2676791,399593,13.39,0.47,15,0,0.1572,1.65,Medium,0,0,APPROVE — Standard Monitoring,13.89%,Quarterly review. Covenant compliance checks. Flag DTI or IR breaches.
+79,Corporate,555830,535893,9.4,0.86,17,1,0.1572,2.4,High,1,1,REJECT — Fraud Alert,N/A,Application declined. Account frozen. Escalate to Fraud Investigations Unit.
+89,Corporate,424540,678406,13.52,0.39,17,1,0.1572,2.3499999999999996,High,1,1,REJECT — Fraud Alert,N/A,Application declined. Account frozen. Escalate to Fraud Investigations Unit.
+59,Retail,2793642,33275,12.8,0.12,4,1,0.1572,2.15,Medium,1,1,REJECT — Fraud Alert,N/A,Application declined. Account frozen. Escalate to Fraud Investigations Unit.
+15,Corporate,3236420,879270,5.91,0.88,2,0,0.1572,2.0,High,1,1,REJECT — Fraud Alert,N/A,Application declined. Account frozen. Escalate to Fraud Investigations Unit.
+56,Corporate,3802811,345623,7.31,0.85,8,0,0.1572,1.85,Medium,1,1,REJECT — Fraud Alert,N/A,Application declined. Account frozen. Escalate to Fraud Investigations Unit.
+66,Retail,1231193,582735,5.79,0.88,21,0,0.1572,1.85,Medium,1,1,REJECT — Fraud Alert,N/A,Application declined. Account frozen. Escalate to Fraud Investigations Unit.
+98,Corporate,3715501,656465,5.75,0.8,24,0,0.1572,1.7000000000000002,Low,1,1,REJECT — Fraud Alert,N/A,Application declined. Account frozen. Escalate to Fraud Investigations Unit.
+88,Corporate,1563584,134040,12.15,0.59,16,0,0.1572,1.65,Medium,1,1,REJECT — Fraud Alert,N/A,Application declined. Account frozen. Escalate to Fraud Investigations Unit.
+28,Retail,2030991,441734,6.87,0.57,17,0,0.1572,1.5000000000000002,Medium,1,1,REJECT — Fraud Alert,N/A,Application declined. Account frozen. Escalate to Fraud Investigations Unit.
+13,Corporate,561831,670482,8.11,0.87,6,0,0.1572,2.3,High,0,0,REJECT — High Risk,N/A,Application declined. Advise on risk reduction. Re-apply in 12 months.
+22,Retail,1192928,623157,9.39,0.88,1,0,0.1572,2.3,High,0,0,REJECT — High Risk,N/A,Application declined. Advise on risk reduction. Re-apply in 12 months.
+42,Retail,3294908,668956,14.26,0.88,2,0,0.1572,2.3,High,0,0,REJECT — High Risk,N/A,Application declined. Advise on risk reduction. Re-apply in 12 months.
+57,Retail,2347336,480951,13.53,0.79,4,0,0.1572,2.3,High,0,0,REJECT — High Risk,N/A,Application declined. Advise on risk reduction. Re-apply in 12 months.
+67,Corporate,3973334,962033,13.79,0.77,5,0,0.1572,2.3,High,0,0,REJECT — High Risk,N/A,Application declined. Advise on risk reduction. Re-apply in 12 months.
+19,Corporate,2670328,863499,9.97,0.89,2,0,0.1572,2.15,High,0,0,REJECT — High Risk,N/A,Application declined. Advise on risk reduction. Re-apply in 12 months.
+73,Retail,3265658,275956,14.28,0.79,1,0,0.1572,2.15,High,0,0,REJECT — High Risk,N/A,Application declined. Advise on risk reduction. Re-apply in 12 months.
+62,Retail,2449862,372920,8.55,0.89,3,1,0.1572,2.55,High,0,0,REJECT — Prior Default,N/A,Application declined. Credit counselling recommended. Re-apply in 18 months.
+74,Corporate,1806203,431240,10.53,0.75,5,1,0.1572,2.55,High,0,0,REJECT — Prior Default,N/A,Application declined. Credit counselling recommended. Re-apply in 18 months.
+10,Retail,187164,156106,12.23,0.33,7,1,0.1572,2.5,High,0,0,REJECT — Prior Default,N/A,Application declined. Credit counselling recommended. Re-apply in 18 months.
+39,Corporate,2037635,582203,14.58,0.38,2,1,0.1572,2.4999999999999996,High,0,0,REJECT — Prior Default,N/A,Application declined. Credit counselling recommended. Re-apply in 18 months.
+33,Corporate,705510,257736,10.15,0.81,17,1,0.1572,2.4,High,0,0,REJECT — Prior Default,N/A,Application declined. Credit counselling recommended. Re-apply in 18 months.
+47,Corporate,4634299,477010,13.1,0.75,11,1,0.1572,2.4,High,0,0,REJECT — Prior Default,N/A,Application declined. Credit counselling recommended. Re-apply in 18 months.
+11,Retail,4759930,268930,5.24,0.79,6,1,0.1572,2.25,High,0,0,REJECT — Prior Default,N/A,Application declined. Credit counselling recommended. Re-apply in 18 months.
+95,Corporate,2938873,805543,7.77,0.78,20,1,0.1572,2.25,High,0,0,REJECT — Prior Default,N/A,Application declined. Credit counselling recommended. Re-apply in 18 months.
+90,Retail,2645075,533138,7.1,0.19,4,1,0.1572,2.15,High,0,0,REJECT — Prior Default,N/A,Application declined. Credit counselling recommended. Re-apply in 18 months.
+64,Retail,2416488,204053,11.97,0.58,19,1,0.1572,2.05,High,0,0,REJECT — Prior Default,N/A,Application declined. Credit counselling recommended. Re-apply in 18 months.
